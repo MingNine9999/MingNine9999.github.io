@@ -7,7 +7,7 @@ category: tech
 
 # RabbitMQ Cluster
 
-- Cluster는 고가용성(고장대비)를 위해 구성한다.
+- Cluster는 고가용성(장애대비)를 위해 구성한다.
 
 - Cluster 요구 사항
 
