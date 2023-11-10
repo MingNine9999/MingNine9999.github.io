@@ -47,6 +47,7 @@ p1 < p2 는 먼저 first인자로 비교되고 first인자가 서로 같다면 s
 
 <br>
 
+### tuple!
 
 추가로 tuple은 pair보다 많은 인자들을 하나로 묶는데 사용한다.
 
