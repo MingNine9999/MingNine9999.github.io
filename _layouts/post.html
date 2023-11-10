@@ -1,0 +1,9 @@
+---
+layout: default
+comments: true
+---
+{% include post.html %}
+
+    {% if page.comments != false %}
+        {% include disqus_comments.html %}
+    {% endif %}
