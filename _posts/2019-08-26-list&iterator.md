@@ -7,6 +7,8 @@ category: algorithm/C++_STL
 
 # list와 iterator
 
+### 설명
+
 list는 다들 알고있는 링크드리스트이다
 
 #include <list>를 포함해야하며, 역시 std가 필요하다
@@ -15,7 +17,7 @@ list<T>의 형태로 선언하며 list는 []연산에의한 임의접근을 할 
 
 list는 기본적으로 더블링크드리스트이며 원형링크드리스트는 따로 지원하지 않기 떄문에 직접 구현해줘야 한다.
 
-
+<br>
 
 list를 쓰기위한 iterator를 알아보자!
 
@@ -37,7 +39,7 @@ iterator를 반환한다. rbegin()과 rend()라는 함수도 있는데 이 함�
 
 iter변수의 자료형이 길어서 쓰기힘들다면,  auto iter = L.begin()으로 사용 할 수 도 있다.
 
-
+<br>
 
 iterator를 사용 할 수 있게 되었다면, 리스트에 노드를 추가 삭제 하는 방법을 알아보자.
 
@@ -59,12 +61,13 @@ erase()도 역시 맨 앞에는 항상 iterator변수가 들어간다. L.erase(i
 
 그 외 쓸만한 함수로는, size(), clear(), sort(), unique(), merge()정도가 있다.
 
-
+<br>
 
 ### 예제
 
 ![list_iter](https://github.com/MingNine9999/MingNine9999.github.io/blob/main/_posts/img/list_iter.png?raw=true)
 
+<br>
 
 ### 용도
 
