@@ -12,7 +12,7 @@ permalink: /aboutMing
 - ~~루키여우TF~~
 - ~~협업서비스개발실~~
 - NHN Payco, 결제 개발 2팀, 가맹점 개발 파트
-- 주니어 개발자 - Developer
+- 주니어 개발자 - Junior Developer
 - [GIT HUB][git_link], [TistoryBlog][tistory]
 - E-Mail : alsrnx@gamil.com, mingu.song@nhnpayco.com
 
