@@ -2,7 +2,7 @@
 layout: post
 title: "Algorithm 스터디 준비\n C++ STL Container 편 4.pair & tuple"
 date: 2020-05-22 23:59:00 +0900
-category: algorithm/C++_STL
+category: algorithm-C++_STL
 ---
 
 # pair와 tuple

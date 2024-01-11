@@ -2,7 +2,7 @@
 layout: post
 title: "Algorithm 스터디 준비\n C++ STL Container 편 2.list & iterator"
 date: 2019-08-26 16:50:00 +0900
-category: algorithm/C++_STL
+category: algorithm-C++_STL
 ---
 
 # list와 iterator

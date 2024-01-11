@@ -2,7 +2,7 @@
 layout: post
 title: "Algorithm 스터디 준비\n C++ STL Container 편 3. stack, queue, deque, priority_queue"
 date: 2019-08-29 09:45:00 +0900
-category: algorithm/C++_STL
+category: algorithm-C++_STL
 ---
 
 # stack, queue, deque, priority_queue
