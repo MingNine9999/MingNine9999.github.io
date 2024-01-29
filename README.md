@@ -16,7 +16,9 @@ permalink: /aboutMing
 - [GIT HUB][git_link], [TistoryBlog][tistory]
 - E-Mail : alsrnx@gamil.com, mingu.song@nhnpayco.com
 
-> C, C++ 알고리즘 문제해결을 좋아하는 뉴비 개발자
+> C, C++ 알고리즘 문제해결을 좋아하는 ~~뉴비~~ 개발자 
+> 
+> 백엔드 주니어 개발자
 > 
 > 기술 스택: JAVA Spring/Spring Boot, GoLang ...
 > 
